@@ -590,6 +590,7 @@ html.no-scroll {
   position: absolute;
   inset: 0;
   overflow: hidden;
+  border: 1px solid red;
 }
 
 .hero-video-wrap iframe {
